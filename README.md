@@ -1,7 +1,11 @@
-## Recursos de JavaScript en Español
+## Recursos para seguir aprendiendo JavaScript
 
-[JavaScript para gatos](https://jsparagatos.com/)
+### Español
 
-[Introducción a JavaScript - LibrosWeb](https://librosweb.es/libro/javascript/)
+- [JavaScript Para Gatos (tutorial)](https://jsparagatos.com/)
+- [Introducción a JavaScript (tutorial)](https://librosweb.es/libro/javascript/)
 
-[You Don't Know JS - Serie Completa (Inglés)](https://github.com/getify/You-Dont-Know-JS/)
+### Inglés
+
+- [You Don't Know JS (libros, serie completa)](https://github.com/getify/You-Dont-Know-JS/)
+- [Practical JavaScript (curso)](https://watchandcode.com/p/practical-javascript)
